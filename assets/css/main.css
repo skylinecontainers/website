@@ -1890,6 +1890,7 @@ input, select, textarea {
 
     .box.feature p {
       margin: 0;
+      color: #1a1a1a;
     }
 
     .box.feature .image {
@@ -2216,7 +2217,7 @@ input, select, textarea {
     }
 
   #copyright {
-    color: #aaa;
+    color: #262626;
     padding: 4em 0 0 0;
     text-align: center;
   }
